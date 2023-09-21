@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" /> 
+        <title>Sprites</title> 
+        <link rel="stylesheet" href="sprites.css"> 
+        <script src="game.js" type="module"></script>
+
+        </head> 
+        <body> 
+        <h1>Garda of the Galaxy</h1>
+        <p>Use the ARROW KEYS to MOVE around the screen. Use SPACEBAR to SHOOT</p>
+        <aside id="overview">
+                <p>RED - these are hostile enemies that move towards you. Killing them grants you 3 points. Be Careful, they are fast!</p>
+        </aside>
+        <aside id="overview2">
+                <p>WHITE - these are scared planets that will run away from you. Killing them grants you 1 point. They will still kill you if you make contact with them!</p>
+        </aside>
+        <canvas 
+            width="512" height="512"> 
+        </canvas>
+        <p id="outcome">
+        </p>
+        <p>Score: </p>
+        <p id="score"></p>
+
+        </body>
+
+</html> 

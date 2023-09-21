@@ -1,0 +1,36 @@
+canvas {
+    background-color: black;
+    display: block;
+    margin: 1em auto;
+    border: 1px solid white;
+}
+
+#outcome {
+    color: red;
+    text-align: center;
+    font-size: 4em;
+}
+
+body {
+    background-color: black;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+
+#overview {
+    float: right;
+    width: 20%;
+    margin: 1em;
+    padding: 1em;
+    border: 1px solid white;
+}
+
+#overview2 {
+    float: left;
+    width: 20%;
+    margin: 1em;
+    padding: 1em;
+    border: 1px solid white;
+}

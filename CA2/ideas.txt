@@ -1,0 +1,27 @@
+// Ideas for CA 2 
+
+// Requirements
+    - Top Down 
+    - who moves in response to the arrow keys
+    - is chased by enemies
+
+
+// Personal Requirements
+    - Player must chase target
+    - Target is running away
+    - While being chased by enemy
+    - player can kill enemies
+
+// Ideas for Now
+    - maybe enemies chase the target and the target constantly moves, player must defend target
+    - enemies can kill target + player ( game over )
+    - player can kill target ( game over )
+    - score is measured by time survived
+    - game gets progressively harder
+
+// Setting Ideas
+    - set in field?
+    - target is a bunny? enemies are foxes?
+    - player could be a farmer with a gun? 
+
+    
